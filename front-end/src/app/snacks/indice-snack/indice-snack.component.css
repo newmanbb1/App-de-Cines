@@ -1,0 +1,15 @@
+.cardProductos {
+  width: 29%;
+  height: 100%;
+  float: left;
+  margin: 1rem;
+}
+img {
+  width: 75%;
+
+}
+p{
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
